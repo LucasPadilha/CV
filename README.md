@@ -60,10 +60,10 @@ Balneário Camboriú - SC
 
 ## Experência Profissional
 
-* 2016/Atualmente - **Quax Sites & Sistemas **
+* 2016/Atualmente - **Quax Sites & Sistemas**
 > Atuo no desenvolvimento de sites e sistemas web com PHP e MySQL utilizando um CMS desenvolvido internamente na empresa e HTML5, CSS, Javascript/Jquery no **Front End**. Atuo com foco em desenvolvimento responsivo.
 
-* 2015/2016 - **PerfilWeb Informática **
+* 2015/2016 - **PerfilWeb Informática**
 > Atuei no desenvolvimento de sistemas web com PHP e MySQL/PostgreSQL utilizando um framework desenvolvido internamente na empresa no **Back End** e HTML5, CSS e Javascript/Jquery no **Front End**.
 
 ---
@@ -78,6 +78,5 @@ Balneário Camboriú - SC
 
 ## Projetos Recentes
 
-* **YouTube MP3 Downloader **
-> Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música. [Acessar](https://lucaspadilha.me/youtube-downloader)
-
+* **YouTube MP3 Downloader** - [Acessar](https://lucaspadilha.me/youtube-downloader) 
+> Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música.
