@@ -23,6 +23,7 @@ Balneário Camboriú - SC
 * PHP
 * Programação Orientada à Objeto
 * Apache
+* Java
 
 **FrontEnd:**
 * HTML5/CSS3
@@ -66,10 +67,10 @@ Balneário Camboriú - SC
 
 ## Formação
 
-* **Graduação** - Formando em Sistemas para a Internet
-* **Curso** - Javascript Básico (TreinaWeb)
-* **Curso** - PHP Avançado - MVC (TreinaWeb)
-* **Curso** – SEO - Search Engine Optimization (TreinaWeb)
+* **Graduação** - Formando em Sistemas para a Internet ([UNIVALI](http://univali.br))
+* **Curso** - Javascript Básico ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Curso** - PHP Avançado - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Curso** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
 
 ---
 
