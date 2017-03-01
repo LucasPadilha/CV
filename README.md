@@ -78,6 +78,6 @@ Balneário Camboriú - SC
 
 ## Projetos Recentes
 
-* ** [YouTube MP3 Downloader](https://lucaspadilha.me/youtube-downloader) **
-> Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música.
+* ** YouTube MP3 Downloader **
+> Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música. [Acessar](https://lucaspadilha.me/youtube-downloader)
 
