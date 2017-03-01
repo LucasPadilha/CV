@@ -15,7 +15,6 @@ Balneário Camboriú - SC
 
 **Facebook:** [Padilhaght](https://www.facebook.com/padilhaght)
 
-
 ---
 
 ## Competências
@@ -33,19 +32,16 @@ Balneário Camboriú - SC
 * Javascript
 * jQuery
 
-
 **Banco de Dados:**
 * MySQL
 * PostgreSQL
 * MongoDB
-
 
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 * Conhecimento em SEO
 * Conhecimento em Photoshop
-
 
 ---
 
@@ -74,9 +70,11 @@ Balneário Camboriú - SC
 * **Curso** - Javascript Básico (TreinaWeb)
 * **Curso** - PHP Avançado - MVC (TreinaWeb)
 * **Curso** – SEO - Search Engine Optimization (TreinaWeb)
+
 ---
 
 ## Projetos Recentes
 
-* **YouTube MP3 Downloader** - [Acessar](https://lucaspadilha.me/youtube-downloader) 
+* **YouTube MP3 Downloader** - [Acessar](https://lucaspadilha.me/youtube-downloader)
+
 > Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música.
