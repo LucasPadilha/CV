@@ -9,7 +9,7 @@ Balneário Camboriú - SC
 
 **E-mail:** [hey@lplabs.com.br](mailto:hey@lplabs.com.br)
 
-**Linkedin:** [https://www.linkedin.com/in/lucaspadilhadossantos/](https://www.linkedin.com/in/lucaspadilhadossantos/)
+**Linkedin:** [lucaspadilhadossantos](https://www.linkedin.com/in/lucaspadilhadossantos/)
 
 **Github:** [LucasPadilha](https://www.github.com/LucasPadilha)
 
