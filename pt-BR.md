@@ -1,7 +1,7 @@
 # Lucas Padilha dos Santos
 Balneário Camboriú - Santa Catarina - Brasil
 
-[English Version](curriculo/en-US.md)
+[English Version](https://github.com/LucasPadilha/curriculo/blob/master/en-US.md)
 
 ---
 
