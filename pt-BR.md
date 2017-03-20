@@ -60,7 +60,7 @@ Balneário Camboriú - Santa Catarina - Brasil
 
 ---
 
-## Experência Profissional
+## Experiência Profissional
 
 * 2016/Atualmente - **Quax Sites & Sistemas**
 > Atuo no desenvolvimento de sites e sistemas web com PHP e MySQL utilizando um CMS desenvolvido internamente na empresa e HTML5, CSS, Javascript/Jquery no **Front End**. Atuo com foco em desenvolvimento responsivo.
