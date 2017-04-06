@@ -52,6 +52,7 @@ Balneário Camboriú - Santa Catarina - Brazil
 * MongoDB
 
 **Others:**
+* WebServices
 * Design Patterns *(MVC)*
 * Version Control System *(git)*
 * Linux
