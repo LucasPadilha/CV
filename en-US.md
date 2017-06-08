@@ -34,6 +34,7 @@ Balneário Camboriú - Santa Catarina - Brazil
 
 **Back-End:**
 * PHP
+* Slim Framework
 * Object Oriented Programming
 * Apache
 * Java (Academic experience)
