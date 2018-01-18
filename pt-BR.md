@@ -1,5 +1,5 @@
 # Lucas Padilha dos Santos
-Balneário Camboriú - Santa Catarina - Brasil
+Balneário Camboriú / Tijucas - Santa Catarina - Brasil
 
 [English Version](https://github.com/LucasPadilha/curriculo/blob/master/en-US.md)
 
@@ -53,6 +53,7 @@ Balneário Camboriú - Santa Catarina - Brasil
 * MongoDB
 
 **Outros:**
+* APIs
 * Integração com WebServices
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
@@ -64,7 +65,10 @@ Balneário Camboriú - Santa Catarina - Brasil
 
 ## Experiência Profissional
 
-* 2016/Atualmente - **Quax Sites & Sistemas**
+* 2017/Atualmente- **All Doctors**
+> Atuo como programador pleno em uma equipe de 4 pessoas onde desenvolvemos website, sistema administrativo, api e app híbrido (ionic).
+
+* 2016/2017- **Quax Sites e Sistemas**
 > Atuo no desenvolvimento de sites e sistemas web com PHP e MySQL utilizando um CMS desenvolvido internamente na empresa e HTML5, CSS, Javascript/Jquery no **Front End**. Atuo com foco em desenvolvimento responsivo.
 
 * 2015/2016 - **PerfilWeb Informática**
@@ -74,8 +78,8 @@ Balneário Camboriú - Santa Catarina - Brasil
 
 ## Formação
 
-* **Graduação** - Formando em Sistemas para a Internet ([UNIVALI](http://univali.br))
-* **Curso** - Javascript Básico ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Graduação** - Formado em Sistemas para a Internet ([UNIVALI](http://univali.br))
+* **Curso** - Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Curso** - PHP Avançado - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Curso** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
 
@@ -83,11 +87,14 @@ Balneário Camboriú - Santa Catarina - Brasil
 
 ## Projetos Recentes (Autônomos)
 
-* **YouTube MP3 Downloader** - [Acessar](https://lucaspadilha.me/youtube-downloader)
+* **YouTube MP3 Downloader**
 
 > Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música.
 
 ## Projetos Recentes (Em empresas)
+
+* **All Doctors** - [Acessar](https://alldoctors.com.br/)
+> Foram desenvolvidos site, sistema administrativo, api e app híbrido (ionic) para a empresa All Doctors, que precisava de uma forma de ampliar o seu sistema a fim de poder expandir sua abrangência nacional.  
 
 * **Guacamole** - [Acessar](http://guacamolemex.com.br/)
 
