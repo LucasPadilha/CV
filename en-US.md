@@ -5,7 +5,7 @@ Balneário Camboriú - Santa Catarina - Brazil
 
 ---
 
-#### Full Stack Web Developer
+#### Development Manager
 
 **Phone:** +55 (47) 99656-6507
 
@@ -19,79 +19,74 @@ Balneário Camboriú - Santa Catarina - Brazil
 
 ---
 
-## General Info
 
-* **Third place on the 1st Startup Weekend Balneário Camboriú**
-* Ease to learn new stuff
-* Criativity
-* Determined
-* Responsible
-* Team Working skills
+## Summary
+
+I'm currently Development Manager and Programmer at Geosapiens, a tech company located in Itajaí, Brazil.
+I have strong background experience in responsive web development, project standards, clean code, feature modeling and business decision-making.
+I also have worked with continuous integration, relational and non-relational databases, UNIX servers and versioning.
+
+I have an Associates Degree in Internet Systems (2015-2017), but taught myself how to code by the age of twelve(-ish) by building mmorpg websites.
 
 ---
 
+
 ## Abilities
 
-**Back-End:**
-* PHP
-* Slim Framework
-* Object Oriented Programming
-* Apache
-* Java (Academic experience)
-
-**Front-End:**
-* HTML5/CSS3
-* Bootstrap
-* Bulma.io
-* Responsive Design
+**Programming Languages**
+* PHP 
+    * Symfony
+    * Slim
+    * CodeIgniter
+    * Wordpress
 * Javascript
-* jQuery
+    * JQuery
+    * Node
+* Java
 
-**Database:**
+**Project Standards**
+* Responsive Design
+    * HTML5/CSS3
+    * Bootstrap
+    * Bulma
+* Model-View-Controller
+* Object Oriented Programming
+* REST API / WebService
+
+**Databases**
 * MySQL
+* MariaDB
 * PostgreSQL
 * MongoDB
 
 **Others:**
-* WebServices
-* Design Patterns *(MVC)*
-* Version Control System *(git)*
-* Linux
-* Knowledge in SEO
-* Knowledge in Photoshop
+* Version Control System
+* UNIX-like servers
+* SEO
+* Photoshop
 
 ---
 
 ## Professional Experience
 
-* 2016/Actual - **Quax Sites & Sistemas**
-> I develop websites and web systems using PHP and MySQL, using an internally developed CMS. HTML5, CSS, Javascript and jQuery on the **Front-end**. I act focusing on responsive development.
+* 02/2018 to today - **Development Manager @ GeoSapiens Technology and Information**
+> I am currently Development Manager and Programmer at Geosapiens Technology and Information with experience in responsive development, project standards and clean code, participating in feature modeling, business and development decision making, using technologies for interoperability between web and mobile applications. 
 
-* 2015/2016 - **PerfilWeb Informática**
-> I did act on the development of web systems using PHP and MySQL/PostgreSQL using an internally developed framework as the application **Back-end**. HTML5, CSS, Javascript and jQuery on the **Front-end**. At the time my focus was on the development of a web ERP.
+* 06/2017 to 02/2018 - **Lead Developer @ All Doctors**
+> I worked as a Lead Developer setting priorities, managing the development team and developing new features.
+> During the time I led the team we developed all the components of the platform (Website, Administrative Platform, API and Mobile Application) from the beginning, we integrated several external services (Webservices and Payment Gateways) as well as adding several new features
+
+* 03/2016 to 06/2017 - **Front-end Developer @ Quax Websites and Applications**
+> I worked as a front-end developer in the development of websites and applications focused on user experience, responsiveness, SEO and API integration, as well as participation in business and development decision-making.
+
+* 03/2015 to 02/2016 - **PHP Developer @ PerfilWeb Information Technology**
+> Worked as developer on a web based ERP for accounting professionals using PHP, Javascript and Relational databases (MySQL and PostgreSQL), while mantaining legacy softwares, fixing bugs and developing new features.  
+> Also participated on feature modeling and decision making about business and development.
 ---
 
 ## Education
 
-* **Graduation** - Graduating this semester in Internet Systems ([UNIVALI](http://univali.br))
-* **Course** - Basic level Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
-* **Course** - Advanced level PHP - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
-* **Course** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
-
----
-
-## Recent Projects (Independent)
-
-* **YouTube MP3 Downloader** - [Access website](https://lucaspadilha.me/youtube-downloader)
-
-> Website created on a weekend to download YouTube music and convert them to mp3 on a simple and agile website, without the need to click on a lot of buttons and pass through exaustive tasks to simply download a music.
-
-## Recent Projects (Job)
-
-* **Guacamole** - [Access website](http://guacamolemex.com.br/)
-
-> Website created for the Guacamole company, based in Balneário Camboriú, which has 8 restaurants across the country and needed a responsive and modular website. I was responsible for the ** Back-end ** of the website as well as the ** Front-end **
-
-* **Carpintaria Estúdio** - [Access website](http://carpintariaestudio.com/)
-
-> Website created for the Carpintaria Estúdio, based on Balneário Camboriú, which needed a new website to follow the constant change and improvement of the brand. I was responsible for the **Back-end** as well as the **Front-end** of the website.
+* **Associates Degree** - Internet Systems ([UNIVALI](http://univali.br))
+* **Certificate** - Basic level Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificate** - Advanced level PHP - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificate** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
