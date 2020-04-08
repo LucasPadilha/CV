@@ -1,15 +1,15 @@
 # Lucas Padilha dos Santos
-Balneário Camboriú - Santa Catarina - Brazil
+Torrebelvicino, Veneto - Italy
 
+[Portuguese Version](https://github.com/LucasPadilha/curriculo/blob/master/en-US.md)
 
 ---
 
+#### Full Stack Web Developer
 
-#### Development Manager
+**Phone:** +39 351 749 6522
 
-**Phone:** +55 (47) 99656-6507
-
-**E-mail:** [hey@lplabs.com.br](mailto:hey@lplabs.com.br)
+**E-mail:** [lucas@padilha.dev](mailto:lucas@padilha.dev)
 
 **Linkedin:** [lucaspadilhadossantos](https://www.linkedin.com/in/lucaspadilhadossantos/)
 
@@ -17,21 +17,25 @@ Balneário Camboriú - Santa Catarina - Brazil
 
 **Facebook:** [Padilhaght](https://www.facebook.com/padilhaght)
 
+**Website:** [https://padilha.dev](https://padilha.dev)
 
 ---
-
 
 ## Summary
 
-I'm currently Development Manager and Programmer at Geosapiens, a tech company located in Itajaí, Brazil.
-I have strong background experience in responsive web development, project standards, clean code, feature modeling and business decision-making.
-I also have worked with continuous integration, relational and non-relational databases, UNIX servers and versioning.
+Over 5 years of experience in back-end and front-end development. Of these, approximately 2 years also include team leadership.
 
-I have an Associates Degree in Internet Systems (2015-2017), but taught myself how to code by the age of twelve(-ish) by building mmorpg websites.
+I have an Associate's Degree in Internet Systems (graduated in 2017) by [Universidade do Vale do Itajaí](https://univali.br).
 
+I've worked as development coordinator in large scale projects with global impact, coordinating a team of developers on the maintenance and development of new features for legacy software.
+
+I've also worked as lead developer in the software development for a medical field startup, where I've been in charge of leading a team of developers in the process of modelling and development of a web platform and Android & iOS apps.
+
+Past experiences include maintaining and feature development for an accounting ERP and development of responsive websites for a web agency.
+
+Self-taught, creative and gamer in my spare time. 
 
 ---
-
 
 ## Abilities
 
@@ -45,7 +49,7 @@ I have an Associates Degree in Internet Systems (2015-2017), but taught myself h
 * Javascript
     * JQuery
     * Node
-* Java
+    * React
 
 **Project Standards**
 
@@ -53,7 +57,7 @@ I have an Associates Degree in Internet Systems (2015-2017), but taught myself h
     * HTML5/CSS3
     * Bootstrap
     * Bulma
-* Model-View-Controller
+* Model-View-Controller (MVC)
 * Object Oriented Programming
 * REST API / WebService
 
@@ -66,24 +70,28 @@ I have an Associates Degree in Internet Systems (2015-2017), but taught myself h
 
 **Others:**
 
+* Docker
 * Version Control System
-* UNIX-like servers
+* UNIX (Linux & OSX)
 * SEO
 * Photoshop
-
+* Jenkins
 
 ---
 
-
 ## Professional Experience
 
-* 02/2018 to today - **Development Manager @ GeoSapiens Technology and Information**
+* 02/2018 to 11/2019 - **Development Coordinator @ GeoSapiens Technology and Information**
 
-> I am currently Development Manager and Programmer at Geosapiens Technology and Information with experience in responsive development, project standards and clean code, participating in feature modeling, business and development decision making, using technologies for interoperability between web and mobile applications. 
+> I worked as a development coordinator, managing a team of programmers in the development and maintenance of large web systems.
+> I worked on several projects over time, maintaining legacy software, as well as developing new software with current technologies.
+> Among my duties were direct communication with customers, setting priorities and modeling features.
+> Main technologies: PHP (Symfony framework), Javascript, Knockout.js, Node.js, Java, CSS, Docker, Git, Jenkins.
 
 * 06/2017 to 02/2018 - **Lead Developer @ All Doctors**
 
-> I worked as a Lead Developer setting priorities, managing the development team and developing new features. During the time I led the team we developed all the components of the platform (Website, Administrative Platform, API and Mobile Application) from the beginning, we integrated several external services (Webservices and Payment Gateways) as well as adding several new features
+> I worked as a Lead Developer setting priorities, managing the development team and developing new features.
+> During the time I led the team we developed all the components of the platform (Website, Administrative Platform, API and Mobile Application) from the beginning, we integrated several external services (Webservices and Payment Gateways) as well as adding several new features.
 
 * 03/2016 to 06/2017 - **Front-end Developer @ Quax Websites and Applications**
 
@@ -91,7 +99,8 @@ I have an Associates Degree in Internet Systems (2015-2017), but taught myself h
 
 * 03/2015 to 02/2016 - **PHP Developer @ PerfilWeb Information Technology**
 
-> Worked as developer on a web based ERP for accounting professionals using PHP, Javascript and Relational databases (MySQL and PostgreSQL), while mantaining legacy softwares, fixing bugs and developing new features. Also participated on feature modeling and decision making about business and development.
+> Worked as developer on a web based ERP for accounting professionals using PHP, Javascript and Relational databases (MySQL and PostgreSQL), while mantaining legacy softwares, fixing bugs and developing new features.
+> Also participated on feature modeling and decision making about business and development.
 
 
 ---
@@ -99,7 +108,9 @@ I have an Associates Degree in Internet Systems (2015-2017), but taught myself h
 
 ## Education
 
-* **Associates Degree** - Internet Systems ([UNIVALI](http://univali.br))
-* **Certificate** - Basic level Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Associate's Degree** - Internet Systems ([UNIVALI](http://univali.br))
+* **Certificate** - Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Certificate** - Advanced level PHP - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Certificate** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificate** – iMasters Certified Professional - Javascript - Design Patterns ([iMasters](https://imasters.com/))
+* **Prize** - 3rd place in the 1st Startup Weekend Balneário Camboriú

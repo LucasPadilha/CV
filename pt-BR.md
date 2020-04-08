@@ -17,68 +17,84 @@ Torrebelvicino, Vêneto - Itália
 
 **Facebook:** [Padilhaght](https://www.facebook.com/padilhaght)
 
+**Website:** [https://padilha.dev](https://padilha.dev)
+
 ---
 
-## Informações Gerais
+## Resumo
 
-* **Terceiro lugar no 1º Startup Weekend de Balneário Camboriú**
-* Autodidatismo
-* Criatividade
-* Trabalho em equipe
-* Inteligência emocional para trabalhar sob pressão
+Mais de 5 anos de experiência em desenvolvimento back-end e front-end. Destes, aproximadamente 2 anos de experiência incluem também liderança de equipe.
+
+Possuo diploma de Tecnólogo em Sistemas para Internet (concluído em 2017) pela [Universidade do Vale do Itajaí](https://univali.br).
+
+Atuei como coordenador de desenvolvimento em projetos de grande porte e com impacto global, coordenando uma equipe de programadores na manutenção e desenvolvimento de novas funcionalidades para softwares legados.
+
+Também atuei como programador líder na construção do software de uma startup no ramo médico, onde fui responsável por liderar uma equipe de programadores no desenvolvimento e modelagem de uma plataforma web e aplicativos Android e iOS.
+
+Outras experiências incluem manutenção e desenvolvimento de funcionalidades para um ERP contábil e criação de websites responsivos em uma agência web.
+
+Autodidata, criativo e gamer nas horas vagas. 
 
 ---
 
 ## Competências
 
-**Back-End:**
-* PHP 7
-* Node
-* Programação Orientada à Objetos
-* Apache
+**Linguagens de programação:**
 
-**Front-End:**
-* HTML5/CSS3
-* Bootstrap
-* Responsive Design
+* PHP
+  * Symfony
+  * Slim framework
+  * CodeIgniter
+  * Wordpress
 * Javascript
-* jQuery
-* React.js
+  * jQuery
+  * React
+  * Node
+
+**Padrões de projeto**
+
+* Design responsivo
+  * HTML5/CSS3
+  * Bootstrap
+  * Bulma
+* Model-View-Controller (MVC)
+* Programação orientada à objetos
+* API's REST / WebServices
 
 **Banco de Dados:**
+
 * MySQL
+* MariaDB
 * PostgreSQL
 * MongoDB
 
 **Outros:**
+
 * Docker
-* REST
-* APIs
-* Integração com WebServices
-* Padrões de Projeto *(Modelo MVC)*
-* Sistema de Controle de versão *(git)*
+* Sistema de Controle de versão
 * UNIX (Linux & OSX)
 * SEO
 * Photoshop
+* Jenkins
 
 ---
 
 ## Experiência Profissional
 
-* 2018/2019- **GeoSapiens Tecnologia**
->Atuei como coordenador de desenvolvimento, gerenciando uma equipe de programadores no desenvolvimento e manutenção de sistemas web de grande porte.
+* 02/2018 até 11/2019- **Coordenador de desenvolvimento @ GeoSapiens Tecnologia**
+>Responsável por gerenciar uma equipe de programadores no desenvolvimento e manutenção de sistemas web de grande porte.
 > Trabalhei em diversos projetos ao longo do tempo, mantendo softwares legados, bem como desenvolvendo novos softwares com tecnologias atuais.
 > Entre minhas atribuições estavam a comunicação direta com clientes, definição de prioridades e modelagem de funcionalidades.
 > Principais tecnologias: PHP (Symfony framework), Javascript, Knockout.js, Node.js, Java, CSS, Docker, Git, Jenkins.
 
-* 2017/2018- **All Doctors**
+* 06/2017 até 02/2018- **Programador Líder @ All Doctors**
 > Atuei como programador-líder definindo prioridades, gerenciando o time de desenvolvimento e no desenvolvimento de novas funcionalidades.
 > Durante o tempo que liderei a equipe desenvolvemos do início todos os componentes da plataforma (Website, Plataforma administrativa, API e Aplicativo móvel), realizamos a integração entre diversos serviços externos (Webservices e Gateways de pagamento) bem como adicionamos diversas novas funcionalidades.
 
-* 2016/2017- **Quax Sites e Sistemas**
+* 03/2016 até 06/2017- **Desenvolvedor Front-end @ Quax Sites e Sistemas**
 > Atuei como desenvolvedor front-end no desenvolvimento de sites e aplicações focadas na experiência do usuário, responsividade, SEO e integração de APIs, além de participação na tomada de decisões de negócio e desenvolvimento.
 
-* 2015/2016 - **PerfilWeb Informática**
+* 03/2015 até 02/2016 - **Desenvolvedor PHP @ PerfilWeb Informática**
 > Trabalhei como desenvolvedor em um ERP web para profissionais de contabilidade usando PHP, Javascript e bancos de dados relacionais (MySQL e PostgreSQL), mantendo softwares legados, corrigindo bugs e desenvolvendo novos recursos.
 > Também participei de modelagem de recursos e tomada de decisão sobre negócios e desenvolvimento.
 
@@ -86,7 +102,11 @@ Torrebelvicino, Vêneto - Itália
 
 ## Formação
 
-* **Graduação** - Formado em Sistemas para a Internet ([UNIVALI](http://univali.br))
-* **Curso** - Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
-* **Curso** - PHP Avançado - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
-* **Curso** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Curso Superior de Tecnologia** - Sistemas para a Internet ([UNIVALI](http://univali.br))
+* **Certificado** - Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificado** - PHP Avançado - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificado** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
+* **Certificado** - iMasters Certified Professional - Javascript - Boas Práticas ([iMasters](https://imasters.com.br))
+* **Prêmio** - 3º lugar no 1º Startup Weekend Balneário Camboriú
+
+
