@@ -1,5 +1,5 @@
 # Lucas Padilha dos Santos
-Balneário Camboriú / Tijucas - Santa Catarina - Brasil
+Torrebelvicino, Vêneto - Itália
 
 [English Version](https://github.com/LucasPadilha/curriculo/blob/master/en-US.md)
 
@@ -7,9 +7,9 @@ Balneário Camboriú / Tijucas - Santa Catarina - Brasil
 
 #### Full Stack Web Developer
 
-**Telefone:** +55 (47) 99656-6507
+**Telefone:** +39 351 749 6522
 
-**E-mail:** [hey@lplabs.com.br](mailto:hey@lplabs.com.br)
+**E-mail:** [lucas@padilha.dev](mailto:lucas@padilha.dev)
 
 **Linkedin:** [lucaspadilhadossantos](https://www.linkedin.com/in/lucaspadilhadossantos/)
 
@@ -22,30 +22,28 @@ Balneário Camboriú / Tijucas - Santa Catarina - Brasil
 ## Informações Gerais
 
 * **Terceiro lugar no 1º Startup Weekend de Balneário Camboriú**
-* Facilidade em aprender coisas novas
+* Autodidatismo
 * Criatividade
-* Determinação 
-* Responsabilidade
-* Facilidade para trabalhar em grupo
+* Trabalho em equipe
+* Inteligência emocional para trabalhar sob pressão
 
 ---
 
 ## Competências
 
 **Back-End:**
-* PHP
-* Slim Framework
-* Programação Orientada à Objeto
+* PHP 7
+* Node
+* Programação Orientada à Objetos
 * Apache
-* Java (Experiência Acadêmica)
 
 **Front-End:**
 * HTML5/CSS3
 * Bootstrap
-* Bulma.io
 * Responsive Design
 * Javascript
 * jQuery
+* React.js
 
 **Banco de Dados:**
 * MySQL
@@ -53,26 +51,36 @@ Balneário Camboriú / Tijucas - Santa Catarina - Brasil
 * MongoDB
 
 **Outros:**
+* Docker
+* REST
 * APIs
 * Integração com WebServices
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* Linux
-* Conhecimento em SEO
-* Conhecimento em Photoshop
+* UNIX (Linux & OSX)
+* SEO
+* Photoshop
 
 ---
 
 ## Experiência Profissional
 
-* 2017/Atualmente- **All Doctors**
-> Atuo como programador pleno em uma equipe de 4 pessoas onde desenvolvemos website, sistema administrativo, api e app híbrido (ionic).
+* 2018/2019- **GeoSapiens Tecnologia**
+>Atuei como coordenador de desenvolvimento, gerenciando uma equipe de programadores no desenvolvimento e manutenção de sistemas web de grande porte.
+> Trabalhei em diversos projetos ao longo do tempo, mantendo softwares legados, bem como desenvolvendo novos softwares com tecnologias atuais.
+> Entre minhas atribuições estavam a comunicação direta com clientes, definição de prioridades e modelagem de funcionalidades.
+> Principais tecnologias: PHP (Symfony framework), Javascript, Knockout.js, Node.js, Java, CSS, Docker, Git, Jenkins.
+
+* 2017/2018- **All Doctors**
+> Atuei como programador-líder definindo prioridades, gerenciando o time de desenvolvimento e no desenvolvimento de novas funcionalidades.
+> Durante o tempo que liderei a equipe desenvolvemos do início todos os componentes da plataforma (Website, Plataforma administrativa, API e Aplicativo móvel), realizamos a integração entre diversos serviços externos (Webservices e Gateways de pagamento) bem como adicionamos diversas novas funcionalidades.
 
 * 2016/2017- **Quax Sites e Sistemas**
-> Atuo no desenvolvimento de sites e sistemas web com PHP e MySQL utilizando um CMS desenvolvido internamente na empresa e HTML5, CSS, Javascript/Jquery no **Front End**. Atuo com foco em desenvolvimento responsivo.
+> Atuei como desenvolvedor front-end no desenvolvimento de sites e aplicações focadas na experiência do usuário, responsividade, SEO e integração de APIs, além de participação na tomada de decisões de negócio e desenvolvimento.
 
 * 2015/2016 - **PerfilWeb Informática**
-> Atuei no desenvolvimento de sistemas web com PHP e MySQL/PostgreSQL utilizando um framework desenvolvido internamente na empresa no **Back End** e HTML5, CSS e Javascript/Jquery no **Front End**.
+> Trabalhei como desenvolvedor em um ERP web para profissionais de contabilidade usando PHP, Javascript e bancos de dados relacionais (MySQL e PostgreSQL), mantendo softwares legados, corrigindo bugs e desenvolvendo novos recursos.
+> Também participei de modelagem de recursos e tomada de decisão sobre negócios e desenvolvimento.
 
 ---
 
@@ -82,24 +90,3 @@ Balneário Camboriú / Tijucas - Santa Catarina - Brasil
 * **Curso** - Javascript ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Curso** - PHP Avançado - MVC ([TreinaWeb](https://www.treinaweb.com.br/))
 * **Curso** – SEO - Search Engine Optimization ([TreinaWeb](https://www.treinaweb.com.br/))
-
----
-
-## Projetos Recentes (Autônomos)
-
-* **YouTube MP3 Downloader**
-
-> Site criado para realizar o download de músicas em mp3 do youtube de uma forma simples e ágil, sem a necessidade de realizar diversos cliques e passar por exaustivas tarefas para fazer o simples download de uma música.
-
-## Projetos Recentes (Em empresas)
-
-* **All Doctors** - [Acessar](https://alldoctors.com.br/)
-> Foram desenvolvidos site, sistema administrativo, api e app híbrido (ionic) para a empresa All Doctors, que precisava de uma forma de ampliar o seu sistema a fim de poder expandir sua abrangência nacional.  
-
-* **Guacamole** - [Acessar](http://guacamolemex.com.br/)
-
-> Site criado para a empresa de Balneário Camboriú, Guacamole, que possui 8 unidades e necessitava de um website responsivo e modular, pois as informações entre uma unidade e outra podem divergir. Responsável pela criação do **Back-end** do website, assim como a programação do **Front-end** do mesmo.
-
-* **Carpintaria Estúdio** - [Acessar](http://carpintariaestudio.com/)
-
-> Site criado para o estúdio de moda de Balneário Camboriú, Carpintaria, que necessitava de um novo website para acompanhar a constante mudança e aprimoramento de sua marca. Responsável pela criação do **Back-end**, assim como do **Front-end**.
